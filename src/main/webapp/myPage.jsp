@@ -8,6 +8,18 @@
 </head>
 <body>
 
+<!-- about -->
+    <div class="about">
+        <a class="bg_links social portfolio" href="./myPage.jsp">
+            <span class="icon"></span>
+        </a>
+       
+        <a class="bg_links social linkedin" href="./login.jsp">
+            <span class="icon"></span>
+        </a>
+        <a class="bg_links logo"></a>
+    </div>
+
 <div class="mypage-container">
     <h2>마이페이지</h2>
 
